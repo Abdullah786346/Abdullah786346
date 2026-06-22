@@ -1,5 +1,8 @@
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5,30&height=260&section=header&text=Muhammad%20Abdullah&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20ML%20%26amp%3B%20NLP%20%7C%20Android%20Dev&descAlignY=60&descAlign=50" width="100%" alt="header" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5,30&height=260&section=header&text=Muhammad%20Abdullah&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20ML%20%26%20NLP%20%7C%20Android%20Dev&descAlignY=60&descAlign=50" width="100%" alt="header" />
 </div>
+
+<div align="center">
   
 ### 👨‍💻 About Me
 
