@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,3,4,5,30&amp;height=260&amp;section=header&amp;text=Muhammad%20Abdullah&amp;fontSize=80&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full%20Stack%20Dev%20%7C%20ML%20%26%20NLP%20%7C%20Android%20Dev&amp;descAlignY=60&amp;descAlign=50" width="100%" alt="header" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5,30&height=260&section=header&text=Muhammad%20Abdullah&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20ML%20%26amp%3B%20NLP%20%7C%20Android%20Dev&descAlignY=60&descAlign=50" width="100%" alt="header" />
 </div>
   
 ### 👨‍💻 About Me
